@@ -1,0 +1,1 @@
+JavaScript是最好的语言
